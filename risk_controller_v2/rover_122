@@ -1,0 +1,65 @@
+0.8 0.5 6.4 3.4
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  7.0
+Initiated at Distance:  10.5689157301
+Risk:  14.0645531502
+Execute Move to Goal at time:  8.0
+Initiated at Distance:  9.83527912918
+Risk:  14.4812198168
+Execute Move to Goal at time:  9.0
+Initiated at Distance:  9.04179727493
+Risk:  14.8978864835
+Execute Move to Goal at time:  10.0
+Initiated at Distance:  8.1988385048
+Risk:  7.51498188056
+Execute Move to Goal at time:  11.0
+Initiated at Distance:  7.52810920082
+Risk:  8.3483152139
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  6.91399706788
+Risk:  18.1399818806
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  6.33586311256
+Risk:  18.5566485472
+Execute Fleeing to Keep Distance at time:  15.0
+Initiated at Distance:  5.63804324267
+Risk:  20.9501369489
+Execute Fleeing to Keep Distance at time:  15.0
+Initiated at Distance:  5.46147384751
+Risk:  21.3668036156
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  5.09716276766
+Risk:  22.5683220665
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  4.95968359012
+Risk:  22.9849887331
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  4.75944055932
+Risk:  23.4016553998
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  4.67880806002
+Risk:  23.4016553998
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  4.62342100123
+Risk:  23.8183220665
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  4.5976047479
+Risk:  24.2349887331
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  4.52610681005
+Risk:  24.2349887331
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  4.50940884712
+Risk:  22.7996704441
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  4.42964553087
+Risk:  21.5097691997
+Delivery goal reached
+---- 
+Simulation Finished 23.0
+Final Relative Distance 4.1998715141
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

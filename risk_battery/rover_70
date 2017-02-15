@@ -1,0 +1,65 @@
+-4.7 0.4 -2.2 7.3
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  5.44820681913
+Risk:  15.2030127507
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  4.80741741275
+Risk:  15.6196794174
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  4.212776364
+Risk:  16.036346084
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  3.6076043642
+Risk:  19.7785135571
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  3.31947824376
+Risk:  26.0838721535
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  3.27503388565
+Risk:  26.0838721535
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  3.32466125181
+Risk:  26.5005388202
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.63987509203
+Risk:  26.5005388202
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  3.83592324534
+Risk:  26.9172054869
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  4.49944460527
+Risk:  27.3338721535
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  5.16758247321
+Risk:  23.049461429
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  5.51362677274
+Risk:  23.4661280956
+Execute Move to Goal at time:  21.0
+Initiated at Distance:  6.32252018424
+Risk:  15.0
+Execute Move to Goal at time:  22.0
+Initiated at Distance:  7.3465737067
+Risk:  15.8333333333
+Execute Move to Goal at time:  23.0
+Initiated at Distance:  8.12647589458
+Risk:  16.25
+Execute Move to Goal at time:  25.0
+Initiated at Distance:  9.2487027982
+Risk:  10.4166666667
+Execute Move to Goal at time:  26.0
+Initiated at Distance:  10.0398006631
+Risk:  10.8333333333
+Execute Move to Goal at time:  27.0
+Initiated at Distance:  11.2192456299
+Risk:  11.6666666667
+Delivery goal reached
+---- 
+Simulation Finished 28.0
+Final Relative Distance 12.3070668726
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

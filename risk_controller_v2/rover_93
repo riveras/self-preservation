@@ -1,0 +1,62 @@
+-1.5 -0.7 -7.3 8.3
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  7.24882837353
+Risk:  16.4975014091
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  6.21497279557
+Risk:  16.9141680758
+Execute Fleeing to Keep Distance at time:  15.0
+Initiated at Distance:  5.4855195861
+Risk:  21.2599255525
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  4.97760611525
+Risk:  21.6765922192
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  4.68212266516
+Risk:  22.0932588859
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  4.10719247177
+Risk:  22.0932588859
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.71821246343
+Risk:  22.5099255525
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.54371378375
+Risk:  22.5099255525
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  3.34178100151
+Risk:  22.9265922192
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  3.25845413474
+Risk:  23.3432588859
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  3.3024512285
+Risk:  23.3432588859
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  3.33291888087
+Risk:  32.4216154503
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  3.40021522003
+Risk:  32.4216154503
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  3.7063576088
+Risk:  32.838282117
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  3.81511650235
+Risk:  33.2549487837
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  3.93488448713
+Risk:  33.2549487837
+Execute Fleeing to Keep Distance at time:  24.0
+Initiated at Distance:  4.03919085249
+Risk:  24.9216154503
+Delivery goal reached
+---- 
+Simulation Finished 25.0
+Final Relative Distance 4.21756234741
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

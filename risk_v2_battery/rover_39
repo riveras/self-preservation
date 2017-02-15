@@ -1,0 +1,65 @@
+-4.8 -3.8 -0.3 5.3
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  3.47103340931
+Risk:  17.0122651165
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  2.78154078775
+Risk:  17.4289317832
+Execute Fleeing to Keep Distance at time:  15.0
+Initiated at Distance:  2.33315135068
+Risk:  31.5969621237
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  2.25636525917
+Risk:  32.0136287904
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  2.43064884444
+Risk:  32.4302954571
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  2.54473245958
+Risk:  32.4302954571
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.13913939744
+Risk:  32.8469621237
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.82725583107
+Risk:  33.2636287904
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  4.62787653768
+Risk:  33.2636287904
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  5.49069681673
+Risk:  33.6802954571
+Execute Move to Goal at time:  21.0
+Initiated at Distance:  5.78290800714
+Risk:  14.375
+Execute Move to Goal at time:  22.0
+Initiated at Distance:  7.25342292711
+Risk:  14.7916666667
+Execute Move to Goal at time:  23.0
+Initiated at Distance:  8.09728190591
+Risk:  9.58333333333
+Execute Move to Goal at time:  24.0
+Initiated at Distance:  8.88477616017
+Risk:  10.0
+Execute Move to Goal at time:  25.0
+Initiated at Distance:  10.0277317896
+Risk:  10.8333333333
+Execute Move to Goal at time:  26.0
+Initiated at Distance:  10.8242199486
+Risk:  11.25
+Execute Move to Goal at time:  28.0
+Initiated at Distance:  11.9641136667
+Risk:  11.6666666667
+Execute Move to Goal at time:  29.0
+Initiated at Distance:  12.8024515909
+Risk:  12.0833333333
+Delivery goal reached
+---- 
+Simulation Finished 30.0
+Final Relative Distance 13.7728907391
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

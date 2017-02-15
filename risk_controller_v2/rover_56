@@ -1,0 +1,35 @@
+0.0 0.0 0.0 0.0
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Fleeing to Keep Distance at time:  11.0
+Initiated at Distance:  0.309602419689
+Risk:  43.2715661268
+Execute Fleeing to Keep Distance at time:  13.0
+Initiated at Distance:  0.356124509188
+Risk:  44.1048994601
+Execute Move to Goal at time:  16.0
+Initiated at Distance:  0.325570967282
+Risk:  6.66666666667
+Execute Move to Goal at time:  19.0
+Initiated at Distance:  4.11870282601
+Risk:  7.91666666667
+Execute Move to Goal at time:  24.0
+Initiated at Distance:  8.77838199554
+Risk:  10.9375
+Execute Move to Goal at time:  28.0
+Initiated at Distance:  10.2540815328
+Risk:  13.0208333333
+Execute Move to Goal at time:  33.0
+Initiated at Distance:  11.3204427066
+Risk:  14.6875
+Execute Move to Goal at time:  38.0
+Initiated at Distance:  13.0250462323
+Risk:  15.8333333333
+Rover was captured
+---- 
+Simulation Finished 42.0
+Final Relative Distance 15.1966763041
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

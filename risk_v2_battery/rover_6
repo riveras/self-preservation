@@ -1,0 +1,65 @@
+3.2 1.6 -0.6 -0.0
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  4.0
+Initiated at Distance:  11.8241431968
+Risk:  2.08333333333
+Execute Move to Goal at time:  5.0
+Initiated at Distance:  11.4500257309
+Risk:  10.9038494314
+Execute Move to Goal at time:  6.0
+Initiated at Distance:  10.7272732032
+Risk:  11.3205160981
+Execute Move to Goal at time:  8.0
+Initiated at Distance:  10.1565621144
+Risk:  11.7371827648
+Execute Move to Goal at time:  9.0
+Initiated at Distance:  9.39189218808
+Risk:  12.1538494314
+Execute Move to Goal at time:  10.0
+Initiated at Distance:  8.69790105769
+Risk:  7.46944780453
+Execute Move to Goal at time:  11.0
+Initiated at Distance:  7.71290812728
+Risk:  8.30278113786
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  6.92584717981
+Risk:  17.7819478045
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  6.30067479049
+Risk:  18.1986144712
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  5.64284026114
+Risk:  18.6152811379
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  4.86799596176
+Risk:  25.131530234
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  4.53304786
+Risk:  25.131530234
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  4.11349028774
+Risk:  25.5481969006
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.97003733576
+Risk:  25.5481969006
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.75351664826
+Risk:  25.9648635673
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  3.62811013627
+Risk:  26.381530234
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  3.59355776962
+Risk:  26.381530234
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  3.50942714527
+Risk:  26.7981969006
+Delivery goal reached
+---- 
+Simulation Finished 22.0
+Final Relative Distance 3.40293321905
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

@@ -1,0 +1,77 @@
+-0.1 -4.3 -2.2 6.9
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  6.0
+Initiated at Distance:  10.6067815768
+Risk:  16.3292947747
+Execute Move to Goal at time:  7.0
+Initiated at Distance:  10.2205063671
+Risk:  16.7459614414
+Execute Move to Goal at time:  8.0
+Initiated at Distance:  9.70994950827
+Risk:  17.1626281081
+Execute Move to Goal at time:  9.0
+Initiated at Distance:  8.98725181282
+Risk:  17.9959614414
+Execute Move to Goal at time:  10.0
+Initiated at Distance:  8.31869490189
+Risk:  6.75907535035
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  7.61183061829
+Risk:  7.17574201702
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  6.67087952831
+Risk:  14.7799086837
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  6.03272705608
+Risk:  15.1965753504
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  5.1510226895
+Risk:  16.0299086837
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  4.66106670497
+Risk:  22.6642184423
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  4.50258651011
+Risk:  22.6642184423
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  4.18623154037
+Risk:  23.080885109
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.96539443154
+Risk:  23.4975517756
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  3.93609970194
+Risk:  23.4975517756
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  3.78236705657
+Risk:  23.9142184423
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  3.81603609068
+Risk:  23.9142184423
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  3.96180933042
+Risk:  24.330885109
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  4.16537169032
+Risk:  20.6892595967
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  4.36192412911
+Risk:  20.6892595967
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  4.52862421279
+Risk:  21.1059262633
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  4.87310775462
+Risk:  21.52259293
+Execute Fleeing to Keep Distance at time:  24.0
+Initiated at Distance:  5.23727500425
+Risk:  21.52259293
+Delivery goal reached
+---- 
+Simulation Finished 25.0
+Final Relative Distance 5.77642564759
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

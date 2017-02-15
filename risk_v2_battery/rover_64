@@ -1,0 +1,62 @@
+4.1 -0.3 1.0 4.0
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  12.0521066946
+Risk:  18.453420168
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  11.1645529378
+Risk:  18.8700868347
+Execute Move to Goal at time:  17.0
+Initiated at Distance:  10.4787235805
+Risk:  19.2867535013
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  9.39458264882
+Risk:  22.2221191882
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  8.60667466561
+Risk:  22.2221191882
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  8.22604189572
+Risk:  22.6387858548
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  7.50071178036
+Risk:  22.6387858548
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  6.82094741959
+Risk:  23.0554525215
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  6.27103666348
+Risk:  23.4721191882
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  5.68250483378
+Risk:  23.4721191882
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  5.41264621408
+Risk:  23.8887858548
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  4.94376150199
+Risk:  32.8317896777
+Execute Fleeing to Keep Distance at time:  24.0
+Initiated at Distance:  4.60280158261
+Risk:  32.8317896777
+Execute Fleeing to Keep Distance at time:  24.0
+Initiated at Distance:  4.42902404377
+Risk:  33.2484563443
+Execute Fleeing to Keep Distance at time:  25.0
+Initiated at Distance:  4.35326030362
+Risk:  33.665123011
+Execute Fleeing to Keep Distance at time:  26.0
+Initiated at Distance:  4.41890329732
+Risk:  22.5192896777
+Execute Fleeing to Keep Distance at time:  27.0
+Initiated at Distance:  4.60115356116
+Risk:  22.5192896777
+Delivery goal reached
+---- 
+Simulation Finished 28.0
+Final Relative Distance 4.93185024418
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

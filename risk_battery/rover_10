@@ -1,0 +1,65 @@
+4.4 4.0 -3.8 -0.8
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  8.0
+Initiated at Distance:  14.1036661082
+Risk:  9.11407939651
+Execute Move to Goal at time:  9.0
+Initiated at Distance:  13.3208108468
+Risk:  9.53074606318
+Execute Move to Goal at time:  10.0
+Initiated at Distance:  12.2449228996
+Risk:  5.69977838528
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  11.4478421552
+Risk:  6.11644505194
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  10.7115415044
+Risk:  18.0956117186
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  9.75799556162
+Risk:  18.5122783853
+Execute Fleeing to Keep Distance at time:  15.0
+Initiated at Distance:  9.04266260728
+Risk:  21.0870911424
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  8.55188068658
+Risk:  21.0870911424
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  8.25253161874
+Risk:  21.5037578091
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  7.80761653755
+Risk:  21.5037578091
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  7.4419670572
+Risk:  21.9204244757
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  7.02385203432
+Risk:  22.3370911424
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  6.61798114589
+Risk:  22.3370911424
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  6.43147990381
+Risk:  22.7537578091
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  6.11997204114
+Risk:  22.7537578091
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  5.75547415887
+Risk:  25.8842329725
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  5.33253154524
+Risk:  26.3008996392
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  4.89969031286
+Risk:  26.3008996392
+Delivery goal reached
+---- 
+Simulation Finished 23.0
+Final Relative Distance 4.51328091749
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

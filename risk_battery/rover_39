@@ -1,0 +1,65 @@
+-4.8 -3.8 -0.3 5.3
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  3.22419654037
+Risk:  17.3208095741
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  2.79301882229
+Risk:  28.7956463227
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  2.60444177087
+Risk:  29.2123129894
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  2.60896959475
+Risk:  29.2123129894
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  2.72633828677
+Risk:  29.628979656
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  3.09247903611
+Risk:  29.628979656
+Excute Protean Fleeing at time:  19.0
+Initiated at Distance:  3.72943597361
+Risk:  30.0456463227
+Excute Protean Fleeing at time:  20.0
+Initiated at Distance:  4.46590574258
+Risk:  30.4623129894
+Execute Move to Goal at time:  21.0
+Initiated at Distance:  5.31550463194
+Risk:  14.375
+Execute Move to Goal at time:  25.0
+Initiated at Distance:  6.69705066597
+Risk:  10.4166666667
+Execute Move to Goal at time:  26.0
+Initiated at Distance:  7.8045271513
+Risk:  10.8333333333
+Execute Move to Goal at time:  27.0
+Initiated at Distance:  8.55278986408
+Risk:  11.25
+Execute Move to Goal at time:  28.0
+Initiated at Distance:  9.3231538017
+Risk:  11.6666666667
+Execute Move to Goal at time:  30.0
+Initiated at Distance:  10.4485609313
+Risk:  12.5
+Execute Move to Goal at time:  31.0
+Initiated at Distance:  11.2520410164
+Risk:  12.9166666667
+Execute Move to Goal at time:  32.0
+Initiated at Distance:  12.1482438781
+Risk:  13.3333333333
+Execute Move to Goal at time:  34.0
+Initiated at Distance:  13.1374686777
+Risk:  14.1666666667
+Execute Move to Goal at time:  35.0
+Initiated at Distance:  14.3226998198
+Risk:  14.5833333333
+Delivery goal reached
+---- 
+Simulation Finished 36.0
+Final Relative Distance 15.2975943426
+escape speed: 4.0 2.0
+base speed: 0.5 0.5
+---- 

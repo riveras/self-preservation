@@ -1,0 +1,62 @@
+1.2 -2.0 -2.8 2.9
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  9.0
+Initiated at Distance:  13.0395428809
+Risk:  7.91122696064
+Execute Move to Goal at time:  11.0
+Initiated at Distance:  12.0781447367
+Risk:  5.49976747261
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  10.9353932825
+Risk:  6.33310080595
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  9.99254353075
+Risk:  17.6872674726
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  9.15931801983
+Risk:  18.1039341393
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  8.28110870641
+Risk:  18.5206008059
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  7.47874646023
+Risk:  22.3282938366
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  7.04032209243
+Risk:  22.7449605033
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  6.55296695029
+Risk:  23.1616271699
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  6.16252926572
+Risk:  23.1616271699
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  5.97278295355
+Risk:  23.5782938366
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  5.78542811898
+Risk:  23.5782938366
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  5.7120317066
+Risk:  23.9949605033
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  5.73583706841
+Risk:  24.4116271699
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  5.84511001634
+Risk:  24.7498472236
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  6.1119921567
+Risk:  25.1665138902
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  6.34297395852
+Risk:  25.5831805569
+Delivery goal reached
+---- 
+Simulation Finished 24.0
+Final Relative Distance 7.25425571859
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

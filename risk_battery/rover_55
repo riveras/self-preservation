@@ -1,0 +1,77 @@
+1.9 -3.2 4.0 0.3
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  5.87528351344
+Risk:  15.174544107
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  5.12356975575
+Risk:  15.5912107737
+Execute Fleeing to Keep Distance at time:  14.0
+Initiated at Distance:  4.41023198583
+Risk:  22.8496339721
+Execute Fleeing to Keep Distance at time:  14.0
+Initiated at Distance:  3.87826622864
+Risk:  23.2663006387
+Execute Fleeing to Keep Distance at time:  15.0
+Initiated at Distance:  3.40164070297
+Risk:  23.2663006387
+Execute Fleeing to Keep Distance at time:  15.0
+Initiated at Distance:  3.15947940244
+Risk:  23.6829673054
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  2.82472783719
+Risk:  23.6829673054
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  2.69766331975
+Risk:  24.0996339721
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  2.8040838149
+Risk:  24.5163006387
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  2.94075354415
+Risk:  24.5163006387
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.36352065475
+Risk:  24.9329673054
+Execute Move to Goal at time:  19.0
+Initiated at Distance:  3.83316202422
+Risk:  15.0
+Execute Move to Goal at time:  20.0
+Initiated at Distance:  4.66997485177
+Risk:  15.4166666667
+Execute Move to Goal at time:  21.0
+Initiated at Distance:  5.76824124791
+Risk:  15.8333333333
+Execute Move to Goal at time:  22.0
+Initiated at Distance:  6.60609348119
+Risk:  16.25
+Execute Move to Goal at time:  23.0
+Initiated at Distance:  7.76756965914
+Risk:  9.58333333333
+Execute Move to Goal at time:  24.0
+Initiated at Distance:  8.92321260739
+Risk:  10.0
+Execute Move to Goal at time:  25.0
+Initiated at Distance:  9.80063881756
+Risk:  10.4166666667
+Execute Move to Goal at time:  26.0
+Initiated at Distance:  10.6790144051
+Risk:  10.8333333333
+Execute Move to Goal at time:  27.0
+Initiated at Distance:  11.8564285966
+Risk:  11.25
+Execute Move to Goal at time:  28.0
+Initiated at Distance:  13.0383898091
+Risk:  11.6666666667
+Execute Move to Goal at time:  29.0
+Initiated at Distance:  13.9246540762
+Risk:  12.0833333333
+Delivery goal reached
+---- 
+Simulation Finished 31.0
+Final Relative Distance 15.1951888803
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

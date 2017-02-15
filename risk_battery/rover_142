@@ -1,0 +1,65 @@
+4.2 1.5 -9.3 -8.6
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  5.0
+Initiated at Distance:  13.6192010252
+Risk:  8.55123171896
+Execute Move to Goal at time:  6.0
+Initiated at Distance:  13.256950565
+Risk:  9.38456505229
+Execute Move to Goal at time:  7.0
+Initiated at Distance:  12.7254354624
+Risk:  9.80123171896
+Execute Move to Goal at time:  8.0
+Initiated at Distance:  11.8992475743
+Risk:  10.2178983856
+Execute Move to Goal at time:  10.0
+Initiated at Distance:  11.2675412719
+Risk:  4.74298135326
+Execute Move to Goal at time:  11.0
+Initiated at Distance:  10.4002935959
+Risk:  5.93453978048
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  9.64244005765
+Risk:  6.76787311381
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  8.73178685701
+Risk:  17.4970397805
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  7.62945116116
+Risk:  17.9137064471
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  7.0066227996
+Risk:  20.7204231371
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  6.8068002576
+Risk:  22.7362207863
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  6.17632599627
+Risk:  23.152887453
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  5.67170262632
+Risk:  23.152887453
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  5.24123956091
+Risk:  23.5695541196
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  4.88660621033
+Risk:  23.9862207863
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  4.75528666051
+Risk:  23.9862207863
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  4.56190536802
+Risk:  24.402887453
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  4.44710214732
+Risk:  27.4625391767
+Delivery goal reached
+---- 
+Simulation Finished 22.0
+Final Relative Distance 4.48942817108
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

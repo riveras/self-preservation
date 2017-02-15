@@ -1,0 +1,68 @@
+2.6 -3.5 6.4 3.4
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  5.0
+Initiated at Distance:  10.0509539748
+Risk:  15.4069365891
+Execute Move to Goal at time:  7.0
+Initiated at Distance:  9.59710258294
+Risk:  15.8236032557
+Execute Move to Goal at time:  8.0
+Initiated at Distance:  8.82259523567
+Risk:  16.6569365891
+Execute Move to Goal at time:  9.0
+Initiated at Distance:  8.22528883213
+Risk:  17.0736032557
+Execute Move to Goal at time:  11.0
+Initiated at Distance:  7.37267682506
+Risk:  10.5531646685
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  6.57962507455
+Risk:  9.62728144685
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  5.83337212026
+Risk:  17.2314481135
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  5.23691359996
+Risk:  17.6481147802
+Execute Move to Goal at time:  16.0
+Initiated at Distance:  4.38949288594
+Risk:  18.4814481135
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.96871430348
+Risk:  23.1681507464
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  3.64873816357
+Risk:  26.1458542281
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  3.52766454939
+Risk:  26.1458542281
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  3.50197870065
+Risk:  26.5625208948
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  3.54094352208
+Risk:  26.9791875614
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  3.57896218466
+Risk:  27.3958542281
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  3.66353094033
+Risk:  27.8125208948
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  3.70438178618
+Risk:  27.8125208948
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  3.80785467252
+Risk:  21.8017752821
+Execute Move to Goal at time:  24.0
+Initiated at Distance:  3.95633742567
+Risk:  17.7790851005
+Delivery goal reached
+---- 
+Simulation Finished 26.0
+Final Relative Distance 3.73096925085
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

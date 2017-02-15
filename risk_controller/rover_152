@@ -1,0 +1,65 @@
+-3.9 3.3 -0.7 0.4
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  13.6068045005
+Risk:  5.94165828022
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  12.5361089709
+Risk:  18.2333249469
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  11.5926645183
+Risk:  18.6499916136
+Execute Move to Goal at time:  16.0
+Initiated at Distance:  10.4548581393
+Risk:  19.6885789752
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  9.6166136247
+Risk:  21.7600244921
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  8.77374263293
+Risk:  21.7600244921
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  8.36634981052
+Risk:  22.1766911588
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  7.65934114583
+Risk:  22.1766911588
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  6.74907622931
+Risk:  22.5933578255
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  6.40362427187
+Risk:  23.0100244921
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  5.72740585899
+Risk:  25.8430940829
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  5.07433520582
+Risk:  26.2597607495
+Excute Protean Fleeing at time:  22.0
+Initiated at Distance:  4.40871807483
+Risk:  32.1512214039
+Excute Protean Fleeing at time:  23.0
+Initiated at Distance:  4.02659229377
+Risk:  32.9845547372
+Excute Protean Fleeing at time:  24.0
+Initiated at Distance:  4.18493119164
+Risk:  33.4012214039
+Execute Fleeing to Keep Distance at time:  25.0
+Initiated at Distance:  4.88093565102
+Risk:  21.9428880705
+Execute Move to Goal at time:  26.0
+Initiated at Distance:  4.48796786928
+Risk:  18.570529936
+Rover was captured
+---- 
+Simulation Finished 37.0
+Final Relative Distance 1.82258897135
+escape speed: 8.0 4.0
+base speed: 0.5 0.5
+---- 
+0.0 0.0
+Execute Move to Goal at time:  0.0
+Initiated at Distance: 

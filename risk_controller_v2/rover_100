@@ -1,0 +1,65 @@
+2.9 -1.2 -0.8 2.2
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  8.0
+Initiated at Distance:  13.9968649021
+Risk:  8.87352521399
+Execute Move to Goal at time:  9.0
+Initiated at Distance:  13.2051836066
+Risk:  9.29019188065
+Execute Move to Goal at time:  10.0
+Initiated at Distance:  12.0786657457
+Risk:  5.78120125813
+Execute Move to Goal at time:  11.0
+Initiated at Distance:  11.3095480244
+Risk:  6.19786792479
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  10.5473338197
+Risk:  18.4895345915
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  9.78868606826
+Risk:  18.9062012581
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  8.76795225602
+Risk:  19.3228679248
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  8.03249355488
+Risk:  21.7842200059
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  7.51374717659
+Risk:  22.2008866726
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  7.18400443386
+Risk:  22.6175533392
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  6.78499319989
+Risk:  22.6175533392
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  6.30764644179
+Risk:  23.0342200059
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  5.70709672297
+Risk:  23.0342200059
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  5.33341595483
+Risk:  23.4508866726
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  4.98419731801
+Risk:  23.8675533392
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  4.664649715
+Risk:  29.2321104984
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  4.51789989335
+Risk:  29.648777165
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  4.07315418107
+Risk:  30.0654438317
+Delivery goal reached
+---- 
+Simulation Finished 24.0
+Final Relative Distance 3.88900665802
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

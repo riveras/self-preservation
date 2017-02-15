@@ -1,0 +1,62 @@
+3.9 1.2 3.7 7.3
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  11.1417364989
+Risk:  17.3716309563
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  10.2725840864
+Risk:  18.2381373275
+Execute Move to Goal at time:  15.0
+Initiated at Distance:  9.31492263478
+Risk:  19.1689602279
+Execute Move to Goal at time:  16.0
+Initiated at Distance:  8.26538042625
+Risk:  19.5856268945
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  7.49126514869
+Risk:  20.0022935612
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  6.89316512511
+Risk:  20.0022935612
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  6.17941360959
+Risk:  23.4097853522
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  5.87314542648
+Risk:  23.4097853522
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  5.39378686958
+Risk:  26.2032306855
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  4.86539436135
+Risk:  26.6198973522
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  4.60459086325
+Risk:  26.6198973522
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  4.24103603143
+Risk:  27.0365640188
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  4.02399578757
+Risk:  27.0365640188
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  3.85265439277
+Risk:  27.4532306855
+Execute Move to Goal at time:  23.0
+Initiated at Distance:  3.60860704606
+Risk:  16.5157306855
+Execute Fleeing to Keep Distance at time:  24.0
+Initiated at Distance:  3.33021327427
+Risk:  21.4360590789
+Execute Fleeing to Keep Distance at time:  25.0
+Initiated at Distance:  3.16867360113
+Risk:  22.0722974401
+Delivery goal reached
+---- 
+Simulation Finished 25.0
+Final Relative Distance 3.12688198617
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 

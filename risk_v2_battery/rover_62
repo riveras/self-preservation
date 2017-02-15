@@ -1,0 +1,62 @@
+-1.0 2.9 -1.9 -7.5
+Execute Move to Goal at time:  0.0
+Initiated at Distance:  0.0
+Risk:  0.0
+Execute Move to Goal at time:  11.0
+Initiated at Distance:  11.5513291161
+Risk:  5.81192349392
+Execute Move to Goal at time:  12.0
+Initiated at Distance:  10.7315589021
+Risk:  6.22859016059
+Execute Move to Goal at time:  13.0
+Initiated at Distance:  9.81027861456
+Risk:  17.8952568273
+Execute Move to Goal at time:  14.0
+Initiated at Distance:  8.65479828058
+Risk:  18.3119234939
+Execute Fleeing to Keep Distance at time:  15.0
+Initiated at Distance:  7.80708086547
+Risk:  22.3680274437
+Execute Fleeing to Keep Distance at time:  16.0
+Initiated at Distance:  7.28860493093
+Risk:  22.3680274437
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  6.99482672562
+Risk:  22.7846941103
+Execute Fleeing to Keep Distance at time:  17.0
+Initiated at Distance:  6.31474272949
+Risk:  23.201360777
+Execute Fleeing to Keep Distance at time:  18.0
+Initiated at Distance:  5.7451283432
+Risk:  23.201360777
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  5.18506559953
+Risk:  23.6180274437
+Execute Fleeing to Keep Distance at time:  19.0
+Initiated at Distance:  4.77177815942
+Risk:  23.6180274437
+Execute Fleeing to Keep Distance at time:  20.0
+Initiated at Distance:  3.77241600427
+Risk:  28.0054731295
+Execute Fleeing to Keep Distance at time:  21.0
+Initiated at Distance:  3.45268517113
+Risk:  35.3443216149
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  2.72558095752
+Risk:  35.7609882816
+Execute Fleeing to Keep Distance at time:  22.0
+Initiated at Distance:  2.58752377244
+Risk:  36.1776549482
+Execute Fleeing to Keep Distance at time:  23.0
+Initiated at Distance:  2.45487757549
+Risk:  36.5943216149
+Execute Fleeing to Keep Distance at time:  24.0
+Initiated at Distance:  2.6785842066
+Risk:  36.5943216149
+Delivery goal reached
+---- 
+Simulation Finished 25.0
+Final Relative Distance 2.94757705565
+escape speed: 1.0 0.5
+base speed: 0.5 0.5
+---- 
